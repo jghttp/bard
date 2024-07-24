@@ -1,0 +1,327 @@
+[Preset.0]
+Active=1
+Comments=
+Incoming0=MID18024pp
+Incoming1=MID18024pp
+Incoming10=MID1802bpp
+Incoming11=MID1802bpp
+Incoming12=MID1802dpp
+Incoming13=MID1802dpp
+Incoming14=MID1802fpp
+Incoming15=MID1802fpp
+Incoming16=MID18030pp
+Incoming17=MID18030pp
+Incoming18=MID18032pp
+Incoming19=MID18032pp
+Incoming2=MID18026pp
+Incoming20=MID18034pp
+Incoming21=MID18034pp
+Incoming22=MID18035pp
+Incoming23=MID18035pp
+Incoming24=MID18037pp
+Incoming25=MID18037pp
+Incoming26=MID18039pp
+Incoming27=MID18039pp
+Incoming28=MID1803bpp
+Incoming29=MID1803bpp
+Incoming3=MID18026pp
+Incoming30=MID1803Cpp
+Incoming31=MID1803cpp
+Incoming32=MID1803epp
+Incoming33=MID1803epp
+Incoming34=MID18040pp
+Incoming35=MID18040pp
+Incoming36=MID18041pp
+Incoming37=MID18041pp
+Incoming38=MID18043pp
+Incoming39=MID18043pp
+Incoming4=MID18025pp
+Incoming40=MID18045pp
+Incoming41=MID18045pp
+Incoming42=MID18047pp
+Incoming43=MID18047pp
+Incoming44=MID18048pp
+Incoming45=MID18048pp
+Incoming46=MID18046pp
+Incoming47=MID18047pp
+Incoming48=MID18048pp
+Incoming49=MID18025pp
+Incoming5=MID18025pp
+Incoming50=MID18025pp
+Incoming51=MID18026pp
+Incoming52=MID18026pp
+Incoming53=MID1802app
+Incoming54=MID1802app
+Incoming55=MID1802Cpp
+Incoming56=MID1802Cpp
+Incoming57=MID1802epp
+Incoming58=MID1802epp
+Incoming59=MID18031pp
+Incoming6=MID18028pp
+Incoming60=MID18031pp
+Incoming61=MID18033pp
+Incoming62=MID18033pp
+Incoming63=MID18036pp
+Incoming64=MID18036pp
+Incoming65=MID18038pp
+Incoming66=MID18038pp
+Incoming67=MID1803app
+Incoming68=MID1803app
+Incoming69=MID1803dpp
+Incoming7=MID18028pp
+Incoming70=MID1803dpp
+Incoming71=MID1803fpp
+Incoming72=MID1803fpp
+Incoming73=MID18042pp
+Incoming74=MID18044pp
+Incoming75=MID18046pp
+Incoming76=MID18042pp
+Incoming77=MID18046pp
+Incoming78=MID18044pp
+Incoming8=MID18029pp
+Incoming9=MID18029pp
+Name=FF14 Bard 4.3 Eglantinel
+Name0=C-1
+Name1=C-1
+Name10=E-1
+Name11=E-1
+Name12=F-1
+Name13=F-1
+Name14=F#-1
+Name15=F#-1
+Name16=G-1
+Name17=G-1
+Name18=G#-1
+Name19=G#-1
+Name2=C-1
+Name20=A-1
+Name21=A-1
+Name22=Bb-1
+Name23=Bb-1
+Name24=B-1
+Name25=B-1
+Name26=C
+Name27=C
+Name28=C#
+Name29=C#
+Name3=C#-1
+Name30=D
+Name31=D
+Name32=Eb
+Name33=Eb
+Name34=E
+Name35=E
+Name36=F
+Name37=F
+Name38=F#
+Name39=F#
+Name4=C#-1
+Name40=G
+Name41=G
+Name42=G#
+Name43=G#
+Name44=A
+Name45=A
+Name46=Bb
+Name47=B
+Name48=C+1
+Name49=C#+1
+Name5=C#-1
+Name50=C#+1
+Name51=D+1
+Name52=D+1
+Name53=Eb+1
+Name54=Eb+1
+Name55=E+1
+Name56=E+1
+Name57=F+1
+Name58=F+1
+Name59=F#+1
+Name6=D-1
+Name60=F#+1
+Name61=G+1
+Name62=G+1
+Name63=G#+1
+Name64=G#+1
+Name65=A+1
+Name66=A+1
+Name67=Bb+1
+Name68=Bb+1
+Name69=B+1
+Name7=D-1
+Name70=B+1
+Name71=C+2
+Name72=C+2
+Name73=C+2
+Name74=C+2
+Name75=C+2
+Name76=C+2
+Name77=C+2
+Name78=C+2
+Name8=Eb-1
+Name9=Eb-1
+Options0=Actv01Stop00OutO00
+Options1=Actv01Stop00OutO00
+Options10=Actv01Stop00OutO00
+Options11=Actv01Stop00OutO00
+Options12=Actv01Stop00OutO00
+Options13=Actv01Stop00OutO00
+Options14=Actv01Stop00OutO00
+Options15=Actv01Stop00OutO00
+Options16=Actv01Stop00OutO00
+Options17=Actv01Stop00OutO00
+Options18=Actv01Stop00OutO00
+Options19=Actv01Stop00OutO00
+Options2=Actv01Stop00OutO00
+Options20=Actv01Stop00OutO00
+Options21=Actv01Stop00OutO00
+Options22=Actv01Stop00OutO00
+Options23=Actv01Stop00OutO00
+Options24=Actv01Stop00OutO00
+Options25=Actv01Stop00OutO00
+Options26=Actv01Stop00OutO00
+Options27=Actv01Stop00OutO00
+Options28=Actv01Stop00OutO00
+Options29=Actv01Stop00OutO00
+Options3=Actv01Stop00OutO00
+Options30=Actv01Stop00OutO00
+Options31=Actv01Stop00OutO00
+Options32=Actv01Stop00OutO00
+Options33=Actv01Stop00OutO00
+Options34=Actv01Stop00OutO00
+Options35=Actv01Stop00OutO00
+Options36=Actv01Stop00OutO00
+Options37=Actv01Stop00OutO00
+Options38=Actv01Stop00OutO00
+Options39=Actv01Stop00OutO00
+Options4=Actv01Stop00OutO00
+Options40=Actv01Stop00OutO00
+Options41=Actv01Stop00OutO00
+Options42=Actv01Stop00OutO00
+Options43=Actv01Stop00OutO00
+Options44=Actv01Stop00OutO00
+Options45=Actv01Stop00OutO00
+Options46=Actv01Stop00OutO00
+Options47=Actv01Stop00OutO00
+Options48=Actv01Stop00OutO00
+Options49=Actv01Stop00OutO00
+Options5=Actv01Stop00OutO00
+Options50=Actv01Stop00OutO00
+Options51=Actv01Stop00OutO00
+Options52=Actv01Stop00OutO00
+Options53=Actv01Stop00OutO00
+Options54=Actv01Stop00OutO00
+Options55=Actv01Stop00OutO00
+Options56=Actv01Stop00OutO00
+Options57=Actv01Stop00OutO00
+Options58=Actv01Stop00OutO00
+Options59=Actv01Stop00OutO00
+Options6=Actv01Stop00OutO00
+Options60=Actv01Stop00OutO00
+Options61=Actv01Stop00OutO00
+Options62=Actv01Stop00OutO00
+Options63=Actv01Stop00OutO00
+Options64=Actv01Stop00OutO00
+Options65=Actv01Stop00OutO00
+Options66=Actv01Stop00OutO00
+Options67=Actv01Stop00OutO00
+Options68=Actv01Stop00OutO00
+Options69=Actv01Stop00OutO00
+Options7=Actv01Stop00OutO00
+Options70=Actv01Stop00OutO00
+Options71=Actv01Stop00OutO00
+Options72=Actv01Stop00OutO00
+Options73=Actv01Stop00OutO00
+Options74=Actv01Stop00OutO00
+Options75=Actv01Stop00OutO00
+Options76=Actv01Stop00OutO00
+Options77=Actv01Stop00OutO00
+Options78=Actv01Stop00OutO00
+Options8=Actv01Stop00OutO00
+Options9=Actv01Stop00OutO00
+Outgoing0=KAM3<Outgoing Action="KeyStrokes"><Type>UpOnly</Type><SlownessMs num="12"/><Keys><Key VK="90"/></Keys></Outgoing>
+Outgoing1=KAM3<Outgoing Action="KeyStrokes"><Type>DownOnly</Type><SlownessMs num="20"/><Keys><Key VK="90"/></Keys></Outgoing>
+Outgoing10=KAM3<Outgoing Action="KeyStrokes"><Type>DownOnly</Type><SlownessMs num="20"/><Keys><Key VK="66"/></Keys></Outgoing>
+Outgoing11=KAM3<Outgoing Action="KeyStrokes"><Type>UpOnly</Type><SlownessMs num="12"/><Keys><Key VK="66"/></Keys></Outgoing>
+Outgoing12=KAM3<Outgoing Action="KeyStrokes"><Type>DownOnly</Type><SlownessMs num="20"/><Keys><Key VK="78"/></Keys></Outgoing>
+Outgoing13=KAM3<Outgoing Action="KeyStrokes"><Type>UpOnly</Type><SlownessMs num="12"/><Keys><Key VK="78"/></Keys></Outgoing>
+Outgoing14=KAM3<Outgoing Action="KeyStrokes"><Type>DownOnly</Type><SlownessMs num="20"/><Keys><Key VK="77"/></Keys></Outgoing>
+Outgoing15=KAM3<Outgoing Action="KeyStrokes"><Type>UpOnly</Type><SlownessMs num="12"/><Keys><Key VK="77"/></Keys></Outgoing>
+Outgoing16=KAM3<Outgoing Action="KeyStrokes"><Type>DownOnly</Type><SlownessMs num="20"/><Keys><Key VK="188"/></Keys></Outgoing>
+Outgoing17=KAM3<Outgoing Action="KeyStrokes"><Type>UpOnly</Type><SlownessMs num="12"/><Keys><Key VK="188"/></Keys></Outgoing>
+Outgoing18=KAM3<Outgoing Action="KeyStrokes"><Type>DownOnly</Type><SlownessMs num="20"/><Keys><Key VK="190"/></Keys></Outgoing>
+Outgoing19=KAM3<Outgoing Action="KeyStrokes"><Type>UpOnly</Type><SlownessMs num="12"/><Keys><Key VK="190"/></Keys></Outgoing>
+Outgoing2=KAM3<Outgoing Action="KeyStrokes"><Type>UpOnly</Type><SlownessMs num="12"/><Keys><Key VK="88"/></Keys></Outgoing>
+Outgoing20=KAM3<Outgoing Action="KeyStrokes"><Type>DownOnly</Type><SlownessMs num="20"/><Keys><Key VK="191"/></Keys></Outgoing>
+Outgoing21=KAM3<Outgoing Action="KeyStrokes"><Type>UpOnly</Type><SlownessMs num="12"/><Keys><Key VK="191"/></Keys></Outgoing>
+Outgoing22=KAM3<Outgoing Action="KeyStrokes"><Type>DownOnly</Type><SlownessMs num="20"/><Keys><Key VK="81"/></Keys></Outgoing>
+Outgoing23=KAM3<Outgoing Action="KeyStrokes"><Type>UpOnly</Type><SlownessMs num="12"/><Keys><Key VK="81"/></Keys></Outgoing>
+Outgoing24=KAM3<Outgoing Action="KeyStrokes"><Type>DownOnly</Type><SlownessMs num="20"/><Keys><Key VK="87"/></Keys></Outgoing>
+Outgoing25=KAM3<Outgoing Action="KeyStrokes"><Type>UpOnly</Type><SlownessMs num="12"/><Keys><Key VK="87"/></Keys></Outgoing>
+Outgoing26=KAM3<Outgoing Action="KeyStrokes"><Type>DownOnly</Type><SlownessMs num="20"/><Keys><Key VK="69"/></Keys></Outgoing>
+Outgoing27=KAM3<Outgoing Action="KeyStrokes"><Type>UpOnly</Type><SlownessMs num="12"/><Keys><Key VK="69"/></Keys></Outgoing>
+Outgoing28=KAM3<Outgoing Action="KeyStrokes"><Type>DownOnly</Type><SlownessMs num="20"/><Keys><Key VK="82"/></Keys></Outgoing>
+Outgoing29=KAM3<Outgoing Action="KeyStrokes"><Type>UpOnly</Type><SlownessMs num="12"/><Keys><Key VK="82"/></Keys></Outgoing>
+Outgoing3=KAM3<Outgoing Action="KeyStrokes"><Type>DownOnly</Type><SlownessMs num="20"/><Keys><Key VK="88"/></Keys></Outgoing>
+Outgoing30=KAM3<Outgoing Action="KeyStrokes"><Type>DownOnly</Type><SlownessMs num="20"/><Keys><Key VK="84"/></Keys></Outgoing>
+Outgoing31=KAM3<Outgoing Action="KeyStrokes"><Type>UpOnly</Type><SlownessMs num="12"/><Keys><Key VK="84"/></Keys></Outgoing>
+Outgoing32=KAM3<Outgoing Action="KeyStrokes"><Type>DownOnly</Type><SlownessMs num="20"/><Keys><Key VK="89"/></Keys></Outgoing>
+Outgoing33=KAM3<Outgoing Action="KeyStrokes"><Type>UpOnly</Type><SlownessMs num="12"/><Keys><Key VK="89"/></Keys></Outgoing>
+Outgoing34=KAM3<Outgoing Action="KeyStrokes"><Type>DownOnly</Type><SlownessMs num="20"/><Keys><Key VK="85"/></Keys></Outgoing>
+Outgoing35=KAM3<Outgoing Action="KeyStrokes"><Type>UpOnly</Type><SlownessMs num="12"/><Keys><Key VK="85"/></Keys></Outgoing>
+Outgoing36=KAM3<Outgoing Action="KeyStrokes"><Type>DownOnly</Type><SlownessMs num="20"/><Keys><Key VK="73"/></Keys></Outgoing>
+Outgoing37=KAM3<Outgoing Action="KeyStrokes"><Type>UpOnly</Type><SlownessMs num="12"/><Keys><Key VK="73"/></Keys></Outgoing>
+Outgoing38=KAM3<Outgoing Action="KeyStrokes"><Type>DownOnly</Type><SlownessMs num="20"/><Keys><Key VK="79"/></Keys></Outgoing>
+Outgoing39=KAM3<Outgoing Action="KeyStrokes"><Type>UpOnly</Type><SlownessMs num="7"/><Keys><Key VK="79"/></Keys></Outgoing>
+Outgoing4=KAM3<Outgoing Action="KeyStrokes"><Type>DownOnly</Type><SlownessMs num="20"/><Keys><Key VK="83"/></Keys></Outgoing>
+Outgoing40=KAM3<Outgoing Action="KeyStrokes"><Type>DownOnly</Type><SlownessMs num="20"/><Keys><Key VK="80"/></Keys></Outgoing>
+Outgoing41=KAM3<Outgoing Action="KeyStrokes"><Type>UpOnly</Type><SlownessMs num="12"/><Keys><Key VK="80"/></Keys></Outgoing>
+Outgoing42=KAM3<Outgoing Action="KeyStrokes"><Type>DownOnly</Type><SlownessMs num="20"/><Keys><Key VK="219"/></Keys></Outgoing>
+Outgoing43=KAM3<Outgoing Action="KeyStrokes"><Type>UpOnly</Type><SlownessMs num="12"/><Keys><Key VK="219"/></Keys></Outgoing>
+Outgoing44=KAM3<Outgoing Action="KeyStrokes"><Type>DownOnly</Type><SlownessMs num="20"/><Keys><Key VK="221"/></Keys></Outgoing>
+Outgoing45=KAM3<Outgoing Action="KeyStrokes"><Type>UpOnly</Type><SlownessMs num="12"/><Keys><Key VK="221"/></Keys></Outgoing>
+Outgoing46=KAM3<Outgoing Action="KeyStrokes"><Type>UpOnly</Type><SlownessMs num="12"/><Keys><Key VK="76"/></Keys></Outgoing>
+Outgoing47=KAM3<Outgoing Action="KeyStrokes"><Type>UpOnly</Type><SlownessMs num="12"/><Keys><Key VK="190"/></Keys></Outgoing>
+Outgoing48=KAM3<Outgoing Action="KeyStrokes"><Type>UpOnly</Type><SlownessMs num="12"/><Keys><Key VK="191"/></Keys></Outgoing>
+Outgoing49=KAM3<Outgoing Action="KeyStrokes"><Type>DownOnly</Type><SlownessMs num="20"/><Keys><Key VK="83"/></Keys></Outgoing>
+Outgoing5=KAM3<Outgoing Action="KeyStrokes"><Type>UpOnly</Type><SlownessMs num="12"/><Keys><Key VK="83"/></Keys></Outgoing>
+Outgoing50=KAM3<Outgoing Action="KeyStrokes"><Type>UpOnly</Type><SlownessMs num="12"/><Keys><Key VK="83"/></Keys></Outgoing>
+Outgoing51=KAM3<Outgoing Action="KeyStrokes"><Type>DownOnly</Type><SlownessMs num="20"/><Keys><Key VK="68"/></Keys></Outgoing>
+Outgoing52=KAM3<Outgoing Action="KeyStrokes"><Type>UpOnly</Type><SlownessMs num="12"/><Keys><Key VK="68"/></Keys></Outgoing>
+Outgoing53=KAM3<Outgoing Action="KeyStrokes"><Type>DownOnly</Type><SlownessMs num="20"/><Keys><Key VK="71"/></Keys></Outgoing>
+Outgoing54=KAM3<Outgoing Action="KeyStrokes"><Type>UpOnly</Type><SlownessMs num="12"/><Keys><Key VK="71"/></Keys></Outgoing>
+Outgoing55=KAM3<Outgoing Action="KeyStrokes"><Type>DownOnly</Type><SlownessMs num="20"/><Keys><Key VK="72"/></Keys></Outgoing>
+Outgoing56=KAM3<Outgoing Action="KeyStrokes"><Type>UpOnly</Type><SlownessMs num="12"/><Keys><Key VK="72"/></Keys></Outgoing>
+Outgoing57=KAM3<Outgoing Action="KeyStrokes"><Type>DownOnly</Type><SlownessMs num="20"/><Keys><Key VK="74"/></Keys></Outgoing>
+Outgoing58=KAM3<Outgoing Action="KeyStrokes"><Type>UpOnly</Type><SlownessMs num="12"/><Keys><Key VK="74"/></Keys></Outgoing>
+Outgoing59=KAM3<Outgoing Action="KeyStrokes"><Type>DownOnly</Type><SlownessMs num="20"/><Keys><Key VK="75"/></Keys></Outgoing>
+Outgoing6=KAM3<Outgoing Action="KeyStrokes"><Type>DownOnly</Type><SlownessMs num="20"/><Keys><Key VK="67"/></Keys></Outgoing>
+Outgoing60=KAM3<Outgoing Action="KeyStrokes"><Type>UpOnly</Type><SlownessMs num="12"/><Keys><Key VK="75"/></Keys></Outgoing>
+Outgoing61=KAM3<Outgoing Action="KeyStrokes"><Type>DownOnly</Type><SlownessMs num="20"/><Keys><Key VK="76"/></Keys></Outgoing>
+Outgoing62=KAM3<Outgoing Action="KeyStrokes"><Type>UpOnly</Type><SlownessMs num="12"/><Keys><Key VK="76"/></Keys></Outgoing>
+Outgoing63=KAM3<Outgoing Action="KeyStrokes"><Type>DownOnly</Type><SlownessMs num="20"/><Keys><Key VK="222"/></Keys></Outgoing>
+Outgoing64=KAM3<Outgoing Action="KeyStrokes"><Type>UpOnly</Type><SlownessMs num="12"/><Keys><Key VK="222"/></Keys></Outgoing>
+Outgoing65=KAM3<Outgoing Action="KeyStrokes"><Type>DownOnly</Type><SlownessMs num="20"/><Keys><Key VK="50"/></Keys></Outgoing>
+Outgoing66=KAM3<Outgoing Action="KeyStrokes"><Type>UpOnly</Type><SlownessMs num="12"/><Keys><Key VK="50"/></Keys></Outgoing>
+Outgoing67=KAM3<Outgoing Action="KeyStrokes"><Type>DownOnly</Type><SlownessMs num="20"/><Keys><Key VK="51"/></Keys></Outgoing>
+Outgoing68=KAM3<Outgoing Action="KeyStrokes"><Type>UpOnly</Type><SlownessMs num="12"/><Keys><Key VK="51"/></Keys></Outgoing>
+Outgoing69=KAM3<Outgoing Action="KeyStrokes"><Type>DownOnly</Type><SlownessMs num="20"/><Keys><Key VK="53"/></Keys></Outgoing>
+Outgoing7=KAM3<Outgoing Action="KeyStrokes"><Type>UpOnly</Type><SlownessMs num="12"/><Keys><Key VK="67"/></Keys></Outgoing>
+Outgoing70=KAM3<Outgoing Action="KeyStrokes"><Type>UpOnly</Type><SlownessMs num="12"/><Keys><Key VK="53"/></Keys></Outgoing>
+Outgoing71=KAM3<Outgoing Action="KeyStrokes"><Type>UpOnly</Type><SlownessMs num="12"/><Keys><Key VK="54"/></Keys></Outgoing>
+Outgoing72=KAM3<Outgoing Action="KeyStrokes"><Type>DownOnly</Type><SlownessMs num="20"/><Keys><Key VK="54"/></Keys></Outgoing>
+Outgoing73=KAM3<Outgoing Action="KeyStrokes"><Type>UpOnly</Type><SlownessMs num="12"/><Keys><Key VK="55"/></Keys></Outgoing>
+Outgoing74=KAM3<Outgoing Action="KeyStrokes"><Type>UpOnly</Type><SlownessMs num="12"/><Keys><Key VK="56"/></Keys></Outgoing>
+Outgoing75=KAM3<Outgoing Action="KeyStrokes"><Type>UpOnly</Type><SlownessMs num="12"/><Keys><Key VK="57"/></Keys></Outgoing>
+Outgoing76=KAM3<Outgoing Action="KeyStrokes"><Type>DownOnly</Type><SlownessMs num="20"/><Keys><Key VK="55"/></Keys></Outgoing>
+Outgoing77=KAM3<Outgoing Action="KeyStrokes"><Type>DownOnly</Type><SlownessMs num="20"/><Keys><Key VK="57"/></Keys></Outgoing>
+Outgoing78=KAM3<Outgoing Action="KeyStrokes"><Type>DownOnly</Type><SlownessMs num="20"/><Keys><Key VK="56"/></Keys></Outgoing>
+Outgoing8=KAM3<Outgoing Action="KeyStrokes"><Type>UpOnly</Type><SlownessMs num="12"/><Keys><Key VK="86"/></Keys></Outgoing>
+Outgoing9=KAM3<Outgoing Action="KeyStrokes"><Type>DownOnly</Type><SlownessMs num="20"/><Keys><Key VK="86"/></Keys></Outgoing>
+PresetSwitchIgnore=0
+
+[Project]
+DefaultInPorts=MIDA00020006Xkey370011A-Series Keyboard
+DefaultOutPorts=MIDA0000
+Version=2
+
